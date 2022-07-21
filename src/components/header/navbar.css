@@ -1,0 +1,25 @@
+.banner-image{
+    background-image: url("../../assets/img/bg.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    margin-bottom: 3rem;
+   
+    
+   
+}
+.colorlink{
+    color:black
+}
+
+.img-navbar{
+    width: 6rem;
+}
+.link{
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 1.3rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+

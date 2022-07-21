@@ -1,0 +1,13 @@
+.contact-title{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 6rem;
+}
+
+.imgcontact{
+    width: 100%;
+    height: auto;
+}

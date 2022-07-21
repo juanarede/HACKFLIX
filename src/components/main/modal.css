@@ -1,0 +1,13 @@
+.posterModal{
+    width: 10rem;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.bgcolorModal{
+    background-color: black;
+}
+.ratingMovie{
+  font-size: 2rem;
+  color: aqua;
+}

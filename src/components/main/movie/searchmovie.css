@@ -1,0 +1,46 @@
+.SearchMovie{
+    display: flex;
+    align-items: center;
+    border-radius: 10rem;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.search {
+    position: relative;
+  }
+  
+  .input-search {
+    background-color: transparent;
+    border: 2px solid #fff;
+    height: 30px;
+    width: 30px;
+    padding: 0 0px;
+    font-size: 1.1em;
+    font-weight: lighter;
+    color: #fff;
+    border-radius: 24px;
+    -webkit-transition: all 0.4s;
+    transition: all 0.4s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  
+  .input-search:focus {
+    width: 200px;
+    padding: 0 12px;
+    outline:none;
+  }
+  
+  .letresearch{
+    font-family: Impact, Haettenschweiler, 'Aria';
+    padding-top: 1rem;
+    margin-left: 1rem;
+    color: #fff;
+  }
+  
+
+ 
+
+  
+

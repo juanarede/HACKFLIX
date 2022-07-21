@@ -1,0 +1,58 @@
+.movie-detailsimg{
+    width: 100%;
+   
+}
+
+.details-container{
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+.details-container::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 26%, rgba(0,212,255,0) 100%);
+}
+ 
+
+  .poster-moviee{
+    width: 24rem;
+    top: 40rem;
+    border-radius: 1rem;
+    
+    
+  }
+
+  .title-movieoriginal{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+  }
+  .detail-movies{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.4rem;
+  }
+  .detailss{
+    position: absolute;
+  bottom: -14rem;
+  margin-right: auto;
+  }
+  @media screen and (max-width:600px) {
+    .detailss{
+      top: 19rem;
+      padding-right: 1.8rem;
+      
+    }
+    
+  }
+  .ratingdate{
+    color: aqua;
+    font-size: 1rem;
+    font-weight: bold;
+  }
